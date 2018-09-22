@@ -1,0 +1,12 @@
+sum 35 0.000117166
+minmax 35 0.000111662
+find 34 9.58863e-05
+rotate 34 0.000102064
+partial 30 8.32319e-05
+partial_sort 34 7.78577e-05
+partition 35 7.35419e-05
+remove_duplicates 34 8.00035e-05
+find_diff 33 7.18796e-05
+sum_two_containers 32 6.97821e-05
+get_just_odd 35 7.10624e-05
+---
