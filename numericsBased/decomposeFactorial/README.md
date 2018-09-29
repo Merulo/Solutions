@@ -1,0 +1,1 @@
+Given an array with 1 to N find one missing number.
